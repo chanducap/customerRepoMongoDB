@@ -1,5 +1,5 @@
 
-package com.tmobile.vo;
+package com.practisemongo.vo;
 
 import java.io.Serializable;
 import org.springframework.data.annotation.Id;

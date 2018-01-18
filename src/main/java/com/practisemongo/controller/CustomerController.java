@@ -1,4 +1,4 @@
-package com.tmobile.controller;
+package com.practisemongo.controller;
 
 import java.net.HttpURLConnection;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.tmobile.service.CustomerInfoService;
-import com.tmobile.vo.CustomerVO;
+import com.practisemongo.service.CustomerInfoService;
+import com.practisemongo.vo.CustomerVO;
 
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;

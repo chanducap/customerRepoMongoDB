@@ -1,4 +1,4 @@
-package com.tmobile.vo;
+package com.practisemongo.vo;
 
 import java.io.Serializable;
 

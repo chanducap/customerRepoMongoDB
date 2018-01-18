@@ -1,4 +1,4 @@
-package com.tmobile;
+package com.practisemongo;
 
 public class IConstants {
 	public static final String ACTIVE_STR = "Active";

@@ -1,4 +1,4 @@
-package com.tmobile.service;
+package com.practisemongo.service;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -8,8 +8,8 @@ import org.springframework.data.mongodb.core.MongoTemplate;
 
 import org.springframework.stereotype.Service;
 
-import com.tmobile.repository.CustomerRepositoryDAO;
-import com.tmobile.vo.CustomerVO;
+import com.practisemongo.dao.CustomerRepositoryDAO;
+import com.practisemongo.vo.CustomerVO;
 
 @Service
 public class CustomerInfoService {
